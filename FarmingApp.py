@@ -5,7 +5,7 @@ import requests
 import json
 
 #Constants
-API_KEY = ""
+API_KEY = "9a2e73e398916e32cf89678863639dd4"
 CITY_NAME = "MAPLE"
 #Open Weather map API version 2.5
 URL = "http://api.openweathermap.org/data/2.5/weather?appid=" + API_KEY + "&q=" + CITY_NAME
